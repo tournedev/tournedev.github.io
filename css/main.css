@@ -42,7 +42,12 @@ ul.posts li {
     list-style: none;
 }
 
-nav { /*Text align right */
+#menu { /*Text align right */
     text-align: right; 
+}
+
+#logo {
+    text-align: left;
+}
 }
     
