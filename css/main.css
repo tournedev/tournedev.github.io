@@ -46,7 +46,7 @@ ul.posts li {
     text-align: right; 
 }
 
-#logo {
+#logo { /*Text align left */
     text-align: left;
 }
     
